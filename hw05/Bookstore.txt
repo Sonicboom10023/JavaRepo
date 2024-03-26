@@ -1,0 +1,54 @@
+Title: Don Quixote
+Author: Miguel de Cervantes
+Pages: 100
+Publisher: AA
+Copies Available: 10
+ID: 0
+Title: A Tale of Two Cities
+Author: Charles Dickens
+Pages: 99
+Publisher: BB
+Copies Available: 2
+ID: 1
+Title: The Lord of the Rings
+Author: JRR Tolkien
+Pages: 953
+Publisher: RR
+Copies Available: 4
+ID: 2
+Title: The Little Prince
+Author: Antoine de Saint-Exupery
+Pages: 52
+Publisher: CC
+Copies Available: 1
+ID: 3
+Title: Harry Potter and the Sorcerer's Stone
+Author: JK Rowling
+Pages: 582
+Publisher: JK
+Copies Available: 3
+ID: 4
+Title: And Then There Were None
+Author: Agatha Christie
+Pages: 230
+Publisher: DD
+Copies Available: 1
+ID: 5
+Title: Charlotte's Web
+Author: EB White
+Pages: 69
+Publisher: EB
+Copies Available: 7
+ID: 6
+Title: Harry Potter and the Prisoner of Azkaban
+Author: JK Rowling
+Pages: 529
+Publisher: JK
+Copies Available: 1
+ID: 7
+Title: The Hobbit
+Author: JRR Tolkien
+Pages: 774
+Publisher: RR
+Copies Available: 2
+ID: 8
