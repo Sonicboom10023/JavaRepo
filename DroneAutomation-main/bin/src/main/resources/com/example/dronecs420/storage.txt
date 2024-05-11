@@ -1,0 +1,8 @@
+itemContainer,Root,Command Center,0,150,10,0,120,100;
+itemContainer,Root,Barn,0,20,150,0,100,200;
+itemContainer,Root,Storage,0,335,150,0,100,200;
+itemContainer,Root,Field,0,30,400,0,400,200;
+item,Command Center,Drone,0,150,10,0,120,100,0;
+item,Barn,Milk Storage,1500,20,300,0,100,50,4500;
+item,Storage,Tractor,25000,350,250,0,50,50,35000;
+item,Field,Soy,5000,350,400,0,80,200,10000;
